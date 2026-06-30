@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR4i0046/v1
+canonical_location: https://kanripo.org/bkk/KR4i0046/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 文說
+  date: '2015-08-25 00:45:55.345672'
+  source:
+    repository: kanripo
+    path: KR4i0046
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR4i0046_000.yaml, hash: 'sha256:97d507b93cbb8fe3a81f8063ef5ab8e5d05834421206f27bae6fa73df8940bc2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4i0046_000.markers.yaml, hash: 'sha256:59dc6dd52c551ac03b03bbd3ebbd03f8214eb12abc9324ea0b38a542d81cd534'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4i0046_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 366
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR4i0046_WYG_000-3a
+    span:
+    - body
+    - 366
+    - 5630
+  label: 文説
+  type: section
+  level: 1
+hash: sha256:89184afd32a2480c9cee327a30f99f8ea9dd01ae5341151835fd9ab430ebc3f4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
