@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR4i0046/v1
 canonical_location: https://kanripo.org/bkk/KR4i0046/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 文說
   date: '2015-08-25 00:45:55.345672'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR4i0046_000.yaml, hash: 'sha256:a76850b3fc242fc0b9d1cb3b30e56cc790e68474420e3b13dc29ab50537e6a5f'}
+  - {seq: 0, filename: KR4i0046_000.yaml, hash: 'sha256:c2ee793d1d774a9a7ff82f4ec204a987550ecfbfbdaff858c27620b6b95aa880'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4i0046_000.markers.yaml, hash: 'sha256:1dda0fb4a975c16ec4b82d9cb2fd381f58148b432b0dd87f5407183d0f744331'}
+  - {seq: 0, role: markers, filename: assets/KR4i0046_000.markers.yaml, hash: 'sha256:c3a1d53a63cc2b1672298e951d2e67555659f47fafb44a50c3336e48ef59f999'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,4 +44,7 @@ table_of_contents:
   label: 文説
   type: section
   level: 1
-hash: sha256:063908eebfe764e96ad566b03be5a41d501f4829c049ade283a6ca6f187c01b6
+hash: sha256:07e4b13b15b4d0ceeeefc502ea025665ce878ad53414f34fe10416d1a4284bb6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
