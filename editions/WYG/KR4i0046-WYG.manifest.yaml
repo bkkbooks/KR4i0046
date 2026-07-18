@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR4i0046_000-WYG.yaml, hash: 'sha256:b1fc34e2237bfbcb1e76f75e0732594eeddafd5225b6907b2d5c6013c1768cd2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4i0046_000-WYG.markers.yaml, hash: 'sha256:0160cf98f4e5d38021af45215c3ce4a9a0c4fc8a1e31027bd23a1bacfd3f7fc5'}
+  - {seq: 0, role: markers, filename: assets/KR4i0046_000-WYG.markers.yaml, hash: 'sha256:8c4e676282ce0eef5045e898fce19f95e80f7007ac41c7345ec6eb5868674adb'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,4 @@ table_of_contents:
   label: 文説
   type: section
   level: 1
-hash: sha256:1372afe91742bcd5582f21a860aa365256be4c1bb92501ab2c5ce106bae7d41d
+hash: sha256:033dbaa6502670b8661fc2a51a3e923e17fb9c3f095b40dea1ca2e7d5ac0205e
